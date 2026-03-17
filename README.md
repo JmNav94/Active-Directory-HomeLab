@@ -34,6 +34,18 @@ Set Windows11 to same Bridged Network Adapter: <br/>
 <img src="https://i.imgur.com/AwDAJ4K.png" height="80%" width="80%" alt="Bridged Adapter"/>
 <br />
 <br />
+Install Server OS from ISO download file: <br/>
+<img src="https://i.imgur.com/lMMiuwC.png" height="80%" width="80%" alt="OS and CPU"/>
+<br />
+<br />
+Install Windows 11 OS from ISO download file: <br/>
+<img src="https://i.imgur.com/0BmaXPJ.png" height="80%" width="80%" alt="OS and CPU"/>
+<br />
+<br />
+Rename Domain Controller PC Name: <br/>
+<img src="https://i.imgur.com/1xi2ay5.png" height="80%" width="80%" alt="OS and CPU"/>
+<br />
+<br />
 Add Server Roles: <br/>
 <img src="https://i.imgur.com/zvnVbWD.png" height="80%" width="80%" alt="Server Roles"/>
 <br />
