@@ -50,12 +50,12 @@ Add Server Roles: <br/>
 <img src="https://i.imgur.com/zvnVbWD.png" height="80%" width="80%" alt="Server Roles"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Root Domain Name:  <br/>
+<img src="https://i.imgur.com/Mspi5JX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Help Desk user on Active Directory and Promote to Admin User:  <br/>
+<img src="https://i.imgur.com/1obl7iO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
