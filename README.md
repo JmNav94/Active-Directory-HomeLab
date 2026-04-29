@@ -19,7 +19,7 @@ Project consists of building an Active Directory Server and Client virtual envir
 
 <p align="center">
 Download Windows Server 2022 and Windows 11 from ISO file: <br/>
-<img src="https://i.imgur.com/EfVkEYv.png" height="80%" width="80%" alt="ISO File"/>
+<img src="https://i.imgur.com/ygBuR0d.png" height="80%" width="80%" alt="ISO File"/>
 <br />
 <br />
 Set Virtual Machine OS and CPU: <br/>
