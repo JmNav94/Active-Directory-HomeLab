@@ -33,59 +33,59 @@ Backtrack to Display settings to observe changes: <br/>
 <img src="https://i.imgur.com/xIWrhlX.png" height="80%" width="80%" alt="Bridged Adapter"/>
 <br />
 <br />
-2.LockScreen: Right click to access Peronsalize: <br/>
+2. LockScreen: Right click to access Peronsalize: <br/>
 <img src="https://i.imgur.com/7F0CNcG.png" height="80%" width="80%" alt="OS and CPU"/>
 <br />
 <br />
-Install Windows 11 OS from ISO download file: <br/>
+Access Personalization settings: <br/>
 <img src="https://i.imgur.com/BxyuneF.png" height="80%" width="80%" alt="OS and CPU"/>
 <br />
 <br />
-Rename Domain Controller PC Name: <br/>
+Adjust Accent colors: <br/>
 <img src="https://i.imgur.com/YF6WRJF.png" height="80%" width="80%" alt="OS and CPU"/>
 <br />
 <br />
-Add Server Roles: <br/>
+Scroll down to Lock Screen settings to adjust Lock Screen photos: <br/>
 <img src="https://i.imgur.com/UKdTRbo.png" height="80%" width="80%" alt="Server Roles"/>
 <br />
 <br />
-Create Root Domain Name:  <br/>
+3. Power Settings: Click System Settings:  <br/>
 <img src="https://i.imgur.com/Zpw6sd2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Help Desk user on Active Directory and Promote to Admin User:  <br/>
+4. Apps Settings: Click onto Apps settings to view options :  <br/>
 <img src="https://i.imgur.com/KcSh5gI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+View Apps installed onto the PC based on the filter:  <br/>
 <img src="https://i.imgur.com/NvzKzj7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+5. Connecting a Printer: Access Bluetooth and Devices settings:  <br/>
 <img src="https://i.imgur.com/SVzLPX4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Help Desk user on Active Directory and Promote to Admin User:  <br/>
+Select Printers & Scanners:  <br/>
 <img src="https://i.imgur.com/imN612c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Select Add a printer to add a device manually:  <br/>
 <img src="https://i.imgur.com/QWjirip.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Add local printer with manual settings:  <br/>
 <img src="https://i.imgur.com/42NStiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Find printer from the list:  <br/>
 <img src="https://i.imgur.com/upzIUTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create Help Desk user on Active Directory and Promote to Admin User:  <br/>
+Set to Do not share printer so it can't be found in public:  <br/>
 <img src="https://i.imgur.com/SL9t5fV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Confirm printer is now connected:  <br/>
 <img src="https://i.imgur.com/ImWiYGV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
