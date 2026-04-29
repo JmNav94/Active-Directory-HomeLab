@@ -74,6 +74,22 @@ Sanitization complete:  <br/>
 <img src="https://i.imgur.com/QWjirip.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/42NStiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/upzIUTX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create Help Desk user on Active Directory and Promote to Admin User:  <br/>
+<img src="https://i.imgur.com/SL9t5fV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/ImWiYGV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
