@@ -2,35 +2,34 @@
 
 
 <h2>Description</h2>
-Project consists of building an Active Directory Server and Client virtual environment from scratch. Virtual Box was used to create a Domain Controller Virtual Machine (DCLab) and a Client Virtual Machine (Win11) to work together through Active Directory. 
+Project consists of exploring Windows 11 tools and functions for personalization. 
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Oracle Virtualbox</b> 
+- <b>JobsShareSKills virtual lab environment</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows Server 2022</b> 
 - <b>Windows 11</b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download Windows Server 2022 and Windows 11 from ISO file: <br/>
+Right Click Start button to access System: <br/>
 <img src="https://i.imgur.com/lZQShRE.png" height="80%" width="80%" alt="ISO File"/>
 <br />
 <br />
-Set Virtual Machine OS and CPU: <br/>
+Access Display settings and view Resolution options: <br/>
 <img src="https://i.imgur.com/bwbvrBq.png" height="80%" width="80%" alt="OS and CPU"/>
 <br />
 <br />
-Set DCLab to Bridged Network Adapter: <br/>
+Access Custom Scaling to adjust: <br/>
 <img src="https://i.imgur.com/CtuiE3f.png" height="80%" width="80%" alt="Bridged Adapter"/>
 <br />
 <br />
-Set Windows11 to same Bridged Network Adapter: <br/>
+Backtrack to Display settings to observe changes: <br/>
 <img src="https://i.imgur.com/xIWrhlX.png" height="80%" width="80%" alt="Bridged Adapter"/>
 <br />
 <br />
